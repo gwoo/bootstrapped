@@ -22,3 +22,4 @@ If you need icons, remember to include the font stylesheet.
  - http://bootswatch.com/spruce/
  - http://bootswatch.com/superhero/
  - http://bootswatch.com/united/
+ - http://bootswatch.com/cosmo/
